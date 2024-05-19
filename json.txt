@@ -1,0 +1,36 @@
+
+
+{
+  "apikey": "4dd70a4f-b39f-472f-bd6a-222bf1973260",
+  "data": [
+                {
+                    "id": "3451270e-c250-4497-8be3-3479f18d758e",
+                    "dateTimeGMT": "2024-05-19T10:00:00",
+                    "matchType": "t20",
+                    "status": "Match not started",
+                    "ms": "fixture",
+                    "t1": "Punjab Kings [PBKS]",
+                    "t2": "Sunrisers Hyderabad [SRH]",
+                    "t1s": "",
+                    "t2s": "",
+                    "t1img": "https://g.cricapi.com/iapi/247-637852956959778791.png?w=48",
+                    "t2img": "https://g.cricapi.com/iapi/279-637852957609490368.png?w=48",
+                    "series": "Indian Premier League 2024"
+            },
+            {
+                    "id": "043bb613-d8ee-4287-9ccb-a298a0f9c389",
+                    "dateTimeGMT": "2024-05-18T14:00:00",
+                    "matchType": "t20",
+                    "status": "Royal Challengers Bengaluru won by 27 runs",
+                    "ms": "result",
+                    "t1": "Chennai Super Kings [CSK]",
+                    "t2": "Royal Challengers Bengaluru [RCB]",
+                    "t1s": "191/7 (20)",
+                    "t2s": "218/5 (20)",
+                    "t1img": "https://g.cricapi.com/iapi/135-637852956181378533.png?w=48",
+                    "t2img": "https://g.cricapi.com/iapi/21439-638468478038395955.jpg?w=48",
+                    "series": "Indian Premier League 2024"
+            },
+
+  ]
+}
